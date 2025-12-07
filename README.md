@@ -240,8 +240,13 @@ finboard/
 ├── 📄 next.config.js           # Next.js configuration
 ├── 📄 tailwind.config.js       # Tailwind configuration
 └── 📄 README.md               # Documentation
-```
 
+```
+## 🚀 Deployment
+
+The project is live at:
+
+👉 https://finboard-dashboard-khaki.vercel.app/
 
 
 ## Features
