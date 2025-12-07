@@ -245,13 +245,12 @@ The project is live at:
 👉 https://finboard-dashboard-khaki.vercel.app/
 
 
-## Features
+## Assignment Benchmark
 
-This project has following features:-
+This project has following features implemented:-
 
 - ✅ **Widget Management**: Complete CRUD operations for widgets
 - ✅ **API Integration**: Multiple financial API support with adapters
-- ✅ **Real-time Data**: Live updates with configurable intervals
 - ✅ **Responsive Design**: Mobile-first, cross-device compatibility
 - ✅ **State Management**: Zustand for global state, local storage persistence
 - ✅ **Performance**: Optimized with caching, lazy loading, and code splitting
@@ -259,13 +258,6 @@ This project has following features:-
 - ✅ **Theme Switching**: Dynamic dark/light mode implementation
 - ✅ **Error Handling**: Comprehensive error states and fallbacks
 
----
 
-
-# or
-pnpm dev
-# or
-bun dev
-```
 
 
