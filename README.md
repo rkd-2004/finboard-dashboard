@@ -14,12 +14,8 @@
 - [Getting Started](#getting-started)
 - [API Configuration](#api-configuration)
 - [Project Structure](#project-structure)
-- [Widget System](#widget-system)
 - [API Integration](#api-integration)
-- [Performance Optimizations](#performance-optimizations)
 - [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
