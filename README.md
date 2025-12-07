@@ -3,19 +3,7 @@
 ![FinBoard Dashboard](https://img.shields.io/badge/Next.js-16.0.6-black?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC?style=for-the-badge&logo=tailwind-css)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [API Configuration](#api-configuration)
-- [Project Structure](#project-structure)
-- [API Integration](#api-integration)
-- [Deployment](#deployment)
 
 ## 🎯 Overview
 
